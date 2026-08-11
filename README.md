@@ -1,5 +1,3 @@
-# springbootA657D-
-springbootA657D 校园闲置物品租赁系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
